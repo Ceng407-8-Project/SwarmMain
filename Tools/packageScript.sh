@@ -6,7 +6,7 @@ for dir in src; do
     if [ -d "$dir" ]; then
         bloom-generate rosdebian --os-name ubuntu --os-version jammy --ros-distro jazzy
 
-        nocheck=1 fakeroot debian/rules binary
+        DEB_BUILD_OPTIONS=nocheck fakeroot debian/rules binary
     fi
 done
 

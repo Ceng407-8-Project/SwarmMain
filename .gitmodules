@@ -1,0 +1,3 @@
+[submodule "src/px4_msgs"]
+	path = src/px4_msgs
+	url = git@github.com:Ceng407-8-Project/px4_msgs.git
