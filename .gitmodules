@@ -10,3 +10,9 @@
 [submodule "src/swarm_msgs"]
 	path = src/swarm_msgs
 	url = https://github.com/Ceng407-8-Project/swarm_msgs.git
+[submodule "src/swarm_planner"]
+	path = src/swarm_planner
+	url = https://github.com/Ceng407-8-Project/SwarmPlanner.git
+[submodule "src/swarm_controller"]
+	path = src/swarm_controller
+	url = https://github.com/Ceng407-8-Project/SwarmController.git

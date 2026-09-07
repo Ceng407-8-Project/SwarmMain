@@ -7,6 +7,12 @@
 			"path": "../src/swarm_raft"
 		},
 		{
+			"path": "../src/swarm_controller"
+		},
+		{
+			"path": "../src/swarm_planner"
+		},
+		{
 			"path": "../src/swarm_msgs"
 		},
 		{
