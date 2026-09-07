@@ -4,9 +4,9 @@
 [submodule "src/MicroXRCEDds"]
 	path = src/MicroXRCEDds
 	url = https://github.com/eProsima/Micro-XRCE-DDS-Agent.git
-[submodule "src/swarm_controller"]
-	path = src/swarm_controller
-	url = https://github.com/Ceng407-8-Project/SwarmController.git
+[submodule "src/swarm_raft"]
+	path = src/swarm_raft
+	url = https://github.com/Ceng407-8-Project/SwarmRaft.git
 [submodule "src/swarm_msgs"]
 	path = src/swarm_msgs
 	url = https://github.com/Ceng407-8-Project/swarm_msgs.git
