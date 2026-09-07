@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../"
+		},
+		{
+			"path": "../src/swarm_controller"
+		},
+		{
+			"path": "../src/swarm_msgs"
+		},
+		{
+			"path": "../src/px4_msgs"
+		}
+	],
+	"settings": {}
+}
