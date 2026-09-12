@@ -16,6 +16,9 @@
 			"path": "../src/swarm_msgs"
 		},
 		{
+			"path": "../src/swarm_dashboard"
+		},
+		{
 			"path": "../src/px4_msgs"
 		}
 	],
