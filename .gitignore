@@ -71,3 +71,13 @@ Testing/
 # Colcon workspace outputs
 /install/
 /log/
+
+# ROS and SITL generated state
+.ros/
+**/__pycache__/
+*.py[cod]
+*.bag
+*.db3
+*.ulg
+*.px4log
+Tools/.tmp/
